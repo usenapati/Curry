@@ -1,0 +1,3 @@
+[submodule "Curry/vendor/spdlog"]
+	path = Curry/vendor/spdlog
+	url = https://github.com/gabime/spdlog
